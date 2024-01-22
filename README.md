@@ -27,8 +27,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<iframe width="497" height="1079" src="https://www.loom.com/embed/3e783f01af5a4faeb39a62a97d1d7bce?sid=43dc4662-e011-4d3a-a56a-57007ca9bfc9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
-</iframe>
+![SimulatorScreenRecording-iPhone15Pro-2024-01-21at23 09 19-ezgif com-video-to-gif-converter](https://github.com/metrobobin/MyStory/assets/68521312/89fba7d3-b634-4e23-b812-769e6f44fedb)
+
 
 ## Notes
 
