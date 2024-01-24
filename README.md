@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-![SimulatorScreenRecording-iPhone15Pro-2024-01-21at23 09 19-ezgif com-video-to-gif-converter](https://github.com/metrobobin/MyStory/assets/68521312/89fba7d3-b634-4e23-b812-769e6f44fedb)
+![project1gif](https://github.com/metrobobin/MyStory/assets/68521312/b5df3f47-8263-49f1-bf97-e21b4e551e67)
 
 
 ## Notes
